@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.menu{
+    background-color: #D9D9D9;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+   
+    height: 150px;
+}
+
+.menu-header{
+    display: flex;
+    gap: 200px;
+}
+
+.espaco{
+    height: 50px;
+}
+
+
+.col-1{
+    background-color:#74866E;
+    padding-right: 200px;
+    padding-top: 10px;
+    padding-bottom: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 510px;
+    gap: 300px;
+
+}
+
+.col-niticia h1{
+    color: #D9D9D9;
+}
+
+.col-niticia p{
+    color: #FFFFFF;
+}
+
+.col-2{
+    background-color:#74866E;
+    padding-right: 800px;
+    padding-top: 8px;
+    padding-bottom: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 512px;
+    gap: 300px;
+
+}
+
+.col-niticia2 h1{
+    color: #D9D9D9;
+}
+
+.col-niticia2 p{
+    color: #FFFFFF;
+}
+
+.col-boa{
+    background-color: #D9D9D9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 200px;
+}
+
+.col-boa h1{
+    color:#444F40 ;
+}
+
+.col-boa p{
+   color: #74866E;
+}
+
+.botao{
+    color: #74866E;
+    border: 1px solid;
+    border-radius: 50px;
+    padding-left: 41px;
+    padding-right: 41px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+}
+.espaco3{
+    height: 1500px;
+}
+
+.extras {
+    bottom: -1400px;
+    right: -500px;
+    width: 1200px;
+    height: 1200px;
+    border-radius: 50%;
+    background-color: #cbd89a;
+    
+}
+
+.img{
+    padding-bottom: 100px;
+}
+
+.extra-extra{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    gap: 80px;
+}
+
+.extra-assunto h1{
+    color: #cbd89a;
+}
+
+
+.botao2{
+   background-color: #74866E;
+   color: #D9D9D9;
+    border: 1px solid #D9D9D9;
+    border-radius: 50px;
+    padding-left: 41px;
+    padding-right: 41px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+}
+
+.img-sobre{
+    border-radius: 50%;
+}
+
+.rodape{
+    background-color: #D9D9D9;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    height: 150px;
+}
